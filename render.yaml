@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: brighams-courses-api
+    name: mobile-courses-api
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
